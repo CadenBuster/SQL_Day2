@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://nevcntwm:oRBHvZmxCX68YCIaAlfTVMdDm9pMqsAI@drona.db.elephantsql.com/nevcntwm",
+            "name": "movie_theater"
+        }
+    ]
+}
